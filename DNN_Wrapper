@@ -1,0 +1,4 @@
+//this is the wrapper HDL entity which will surround the DNN to be used in highly -
+//uncertain conditions which is to be used in conjuction with the SDM entity in the -
+//same repo; this wrapper should perform weight adjustment on a sub-set of the weights -
+//and biases matrix, performing essentially Reinforcement Learning
